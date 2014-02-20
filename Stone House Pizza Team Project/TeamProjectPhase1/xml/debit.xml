@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer>
+        <FirstName>Blaine</FirstName>
+        <LastName>Simcox</LastName>
+        <StreetAdress>dfjfajdfkj</StreetAdress>
+        <City>dkjadkjfka</City>
+        <State>MI</State>
+        <Zip>23456</Zip>
+        <DCType>Master Card</DCType>
+        <DCNumber>Master Card</DCNumber>
+        <Bank>dfjadjfkajd</Bank>
+        <PIN>1234</PIN>
+    </customer>
+    <customer>
+        <FirstName>John</FirstName>
+        <LastName>Wilson</LastName>
+        <StreetAdress>dfjfajdfkj</StreetAdress>
+        <City>dkjadkjfka</City>
+        <State>MI</State>
+        <Zip>23456</Zip>
+        <DCType>Master Card</DCType>
+        <DCNumber>Master Card</DCNumber>
+        <Bank>dfjadjfkajd</Bank>
+        <PIN>1234</PIN>
+    </customer>
+    <customer>
+        <FirstName>Bill</FirstName>
+        <LastName>Bellamy</LastName>
+        <StreetAdress>dfjfajdfkj</StreetAdress>
+        <City>dkjadkjfka</City>
+        <State>MI</State>
+        <Zip>23456</Zip>
+        <DCType>Master Card</DCType>
+        <DCNumber>Master Card</DCNumber>
+        <Bank>dfjadjfkajd</Bank>
+        <PIN>1234</PIN>
+    </customer>
+    <customer>
+        <FirstName>Nicholas </FirstName>
+        <LastName>Brown</LastName>
+        <StreetAdress>9823 Hilldale blvd</StreetAdress>
+        <City>Traverse</City>
+        <State>MI</State>
+        <Zip>49685</Zip>
+        <DCType>Master Card</DCType>
+        <DCNumber>Master Card</DCNumber>
+        <Bank>Northern Omaha</Bank>
+        <PIN>2213</PIN>
+    </customer>
+    <customer>
+        <FirstName>Phil</FirstName>
+        <LastName>Joe-Jackson</LastName>
+        <StreetAdress>911 Smack A Kid Lane.</StreetAdress>
+        <City>Tuscaloosa</City>
+        <State>AL</State>
+        <Zip>45690</Zip>
+        <DCType>Master Card</DCType>
+        <DCNumber>1234567887654321</DCNumber>
+        <Bank>Pimps N' Acorn</Bank>
+        <PIN>9087</PIN>
+    </customer>
+    <customer>
+        <FirstName>Blaine</FirstName>
+        <LastName>Simcox</LastName>
+        <StreetAdress>784 E. Main St.</StreetAdress>
+        <City>Frankfort</City>
+        <State>MI</State>
+        <Zip>49635</Zip>
+        <DCType>Visa</DCType>
+        <DCNumber>4321567890123489</DCNumber>
+        <Bank>State Savings Banks</Bank>
+        <PIN>8998</PIN>
+    </customer>
+    <customer>
+        <FirstName>Phil</FirstName>
+        <LastName>The Bastard</LastName>
+        <StreetAdress>456 Who Cares Lane</StreetAdress>
+        <City>Toilette City Grove</City>
+        <State>MI</State>
+        <Zip>34523</Zip>
+        <DCType>Visa</DCType>
+        <DCNumber>1245123467858493</DCNumber>
+        <Bank>We Rip You Off Savigs and Loan</Bank>
+        <PIN>9876</PIN>
+    </customer>
+    <customer>
+        <FirstName>Phillip </FirstName>
+        <LastName>Hocksonville</LastName>
+        <StreetAdress>3456 Hillbilly Dr.</StreetAdress>
+        <City>New York</City>
+        <State>NY</State>
+        <Zip>58930</Zip>
+        <DCType>Visa</DCType>
+        <DCNumber>1234432187657890</DCNumber>
+        <Bank>Northern Death Row Bank</Bank>
+        <PIN>7893</PIN>
+    </customer>
+</customers>

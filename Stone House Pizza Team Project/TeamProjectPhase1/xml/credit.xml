@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer>
+        <FirstName>Don</FirstName>
+        <LastName>Johnson</LastName>
+        <StreetAdress>The Big House</StreetAdress>
+        <City>Redneck Town</City>
+        <State>MS</State>
+        <Zip>78096</Zip>
+        <CCType>Master Card</CCType>
+        <CCNumber>1234567890123456</CCNumber>
+        <expMonth>9</expMonth>
+        <expYear>2018</expYear>
+        <Cvv>265</Cvv>
+    </customer>
+    <customer>
+        <FirstName>Don</FirstName>
+        <LastName>Johnson</LastName>
+        <StreetAdress>The Big House</StreetAdress>
+        <City>Redneck Town</City>
+        <State>MS</State>
+        <Zip>78096</Zip>
+        <CCType>Master Card</CCType>
+        <CCNumber>1234567890123456</CCNumber>
+        <expMonth>9</expMonth>
+        <expYear>2018</expYear>
+        <Cvv>265</Cvv>
+    </customer>
+    <customer>
+        <FirstName>Silver</FirstName>
+        <LastName>Fox</LastName>
+        <StreetAdress>898 Hideo Kojima Dr.</StreetAdress>
+        <City>Tokyo</City>
+        <State>IL</State>
+        <Zip>54632</Zip>
+        <CCType>Master Card</CCType>
+        <CCNumber>1234567812345678</CCNumber>
+        <expMonth>4</expMonth>
+        <expYear>2013</expYear>
+        <Cvv>123</Cvv>
+    </customer>
+    <customer>
+        <FirstName>George </FirstName>
+        <LastName>Washington</LastName>
+        <StreetAdress>Battle of hastings</StreetAdress>
+        <City>Appomattocks</City>
+        <State>WV</State>
+        <Zip>83940</Zip>
+        <CCType>Master Card</CCType>
+        <CCNumber>1234123412341234</CCNumber>
+        <expMonth>10</expMonth>
+        <expYear>2020</expYear>
+        <Cvv>891</Cvv>
+    </customer>
+    <customer>
+        <FirstName>Tolome</FirstName>
+        <LastName>Jones</LastName>
+        <StreetAdress>345 Ninja Lane</StreetAdress>
+        <City>Traverse City</City>
+        <State>MI</State>
+        <Zip>12345</Zip>
+        <CCType>Visa</CCType>
+        <CCNumber>1234567887651234</CCNumber>
+        <expMonth>9</expMonth>
+        <expYear>2018</expYear>
+        <Cvv>123</Cvv>
+    </customer>
+    <customer>
+        <FirstName>Kevin</FirstName>
+        <LastName>Glover</LastName>
+        <StreetAdress>234 Main St.</StreetAdress>
+        <City>Frankfort</City>
+        <State>MI</State>
+        <Zip>49635</Zip>
+        <CCType>Master Card</CCType>
+        <CCNumber>1234876598763456</CCNumber>
+        <expMonth>9</expMonth>
+        <expYear>2018</expYear>
+        <Cvv>345</Cvv>
+    </customer>
+    <customer>
+        <FirstName>Anthony</FirstName>
+        <LastName>Stormcrow</LastName>
+        <StreetAdress>456 Castle Grey Skull Dr.</StreetAdress>
+        <City>Hell</City>
+        <State>LA</State>
+        <Zip>89043</Zip>
+        <CCType>Visa</CCType>
+        <CCNumber>4562312345333333</CCNumber>
+        <expMonth>4</expMonth>
+        <expYear>2013</expYear>
+        <Cvv>56&amp;</Cvv>
+    </customer>
+</customers>

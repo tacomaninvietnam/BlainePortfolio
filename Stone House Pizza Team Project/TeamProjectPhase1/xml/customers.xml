@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer>
+        <FirstName>David</FirstName>
+        <LastName>Lake</LastName>
+        <StreetAdress>987 Silver Lake Dr.</StreetAdress>
+        <City>Traverse City</City>
+        <State>MI</State>
+        <Zip>49867</Zip>
+    </customer>
+    <customer>
+        <FirstName>Blaine</FirstName>
+        <LastName>Simcox</LastName>
+        <StreetAdress>692 Bass Lake Rd.</StreetAdress>
+        <City>Traverse City </City>
+        <State>MI</State>
+        <Zip>49685</Zip>
+    </customer>
+    <customer>
+        <FirstName>Andria</FirstName>
+        <LastName>Simcox</LastName>
+        <StreetAdress>782 Two Hills Dr.</StreetAdress>
+        <City>Traverse City</City>
+        <State>MI</State>
+        <Zip>49686</Zip>
+    </customer>
+    <customer>
+        <FirstName>Will</FirstName>
+        <LastName>Smith</LastName>
+        <StreetAdress>56899 Rodeo Drive</StreetAdress>
+        <City>Hollywood</City>
+        <State>CA</State>
+        <Zip>90210</Zip>
+    </customer>
+    <customer>
+        <FirstName>Phil</FirstName>
+        <LastName>Donahue</LastName>
+        <StreetAdress>123 West Gate Cemetary</StreetAdress>
+        <City>The Grave</City>
+        <State>MI</State>
+        <Zip>98892</Zip>
+    </customer>
+    <customer>
+        <FirstName>Blaine</FirstName>
+        <LastName>Simcox </LastName>
+        <StreetAdress>345 Turtle Lake Rd</StreetAdress>
+        <City>Owassa </City>
+        <State>MI</State>
+        <Zip>39892</Zip>
+    </customer>
+    <customer>
+        <FirstName>George</FirstName>
+        <LastName>Washington-Carver</LastName>
+        <StreetAdress>Tuskegee Universtiy</StreetAdress>
+        <City>Unknown</City>
+        <State>MO</State>
+        <Zip>78907</Zip>
+    </customer>
+    <customer>
+        <FirstName>Jack</FirstName>
+        <LastName>Dempsey</LastName>
+        <StreetAdress>345 Georgia Lane </StreetAdress>
+        <City>Nashville</City>
+        <State>TN</State>
+        <Zip>34563</Zip>
+    </customer>
+    <customer>
+        <FirstName>Kyle</FirstName>
+        <LastName>Reese</LastName>
+        <StreetAdress>The Future</StreetAdress>
+        <City>Los Angeles</City>
+        <State>CA</State>
+        <Zip>98754</Zip>
+    </customer>
+</customers>
