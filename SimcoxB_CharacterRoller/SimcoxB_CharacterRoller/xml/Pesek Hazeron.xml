@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Character>
+    <Character>
+        <PlayerName>Blaine</PlayerName>
+        <CharacterName>Pesek Hazeron</CharacterName>
+        <Druid>False</Druid>
+        <Mage>False</Mage>
+        <Sorcerer>False</Sorcerer>
+        <Paladin>False</Paladin>
+        <Fighter>False</Fighter>
+        <Ranger>False</Ranger>
+        <Cleric>True</Cleric>
+        <Rogue>False</Rogue>
+        <Strength>5</Strength>
+        <Intelligence>5</Intelligence>
+        <Wisdom>13</Wisdom>
+        <Dexterity>14</Dexterity>
+        <Constitution>15</Constitution>
+        <Charisma>15</Charisma>
+        <PlayerClass>Cleric</PlayerClass>
+        <Sex>Male</Sex>
+        <Race>Human</Race>
+        <Alignment>Neutral</Alignment>
+        <Exp>0</Exp>
+        <Gp>65</Gp>
+        <MaxHp>10</MaxHp>
+        <SpellsPerDay>0</SpellsPerDay>
+        <CharacterBio />
+    </Character>
+</Character>

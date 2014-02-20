@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Character>
+    <Character>
+        <PlayerName>blaine</PlayerName>
+        <CharacterName>Simcox</CharacterName>
+        <Druid>False</Druid>
+        <Mage>False</Mage>
+        <Sorcerer>False</Sorcerer>
+        <Paladin>True</Paladin>
+        <Fighter>False</Fighter>
+        <Ranger>False</Ranger>
+        <Cleric>False</Cleric>
+        <Rogue>False</Rogue>
+    </Character>
+</Character>
