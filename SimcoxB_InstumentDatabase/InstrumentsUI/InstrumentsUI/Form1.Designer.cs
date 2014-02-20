@@ -84,6 +84,7 @@
             // 
             this.btnExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnExit.AutoSize = true;
+            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnExit.Location = new System.Drawing.Point(601, 376);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(120, 27);
@@ -101,7 +102,7 @@
             this.label1.Font = new System.Drawing.Font("Mistral", 25.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(37, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(583, 53);
+            this.label1.Size = new System.Drawing.Size(569, 52);
             this.label1.TabIndex = 63;
             this.label1.Text = "Instruments In The World Around Us";
             // 
@@ -130,7 +131,6 @@
             this.AcceptButton = this.btnReset;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::InstrumentsUI.Properties.Resources.instruments_ochestra;
             this.CancelButton = this.btnExit;
             this.ClientSize = new System.Drawing.Size(730, 461);
             this.Controls.Add(this.label3);
