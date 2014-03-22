@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DecoratorModelV1._0.Form1" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAABEBECAAABAgAAiAAAASACAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorModelV1._0.Program" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorModelV1._0.Tool" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAQAAAQAAAABAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ToolClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorModelV1._0.PowerTool">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ToolClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DecoratorModelV1._0.MetalWorkingTool">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToolClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DecoratorModelV1._0.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorModelV1._0.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DecoratorModelV1._0.IPowertoolDecorator" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DecoratorInterfaceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DecoratorModelV1._0.IMetalWorkingDecorator" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorInterfaceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DecoratorModelV1._0.PowerType" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAQAQAAAAAAA=</HashCode>
+      <FileName>DecoratorInterfaceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DecoratorModelV1._0.ToolType" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorInterfaceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DecoratorModelV1._0.ToolClass" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgBAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIARAA=</HashCode>
+      <FileName>DecoratorInterfaceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DecoratorModelV1._0.GasType" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAABIAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorInterfaceEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
