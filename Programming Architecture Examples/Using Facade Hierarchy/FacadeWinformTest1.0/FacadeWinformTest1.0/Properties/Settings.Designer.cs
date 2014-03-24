@@ -26,9 +26,10 @@ namespace FacadeWinformTest1._0.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\v11.0;AttachDbFilename=\"C:\\Users\\Blaine\\Desktop\\Blaine NMC\\" +
-            "CIT 275\\Using Facade Hierarchy\\FacadeWinformTest1.0\\AdventureWorksLT2012_Data.md" +
-            "f\";Integrated Security=True;Connect Timeout=30")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\v11.0;AttachDbFilename=\"C:\\Users\\Blaine\\Documents\\GitHub\\Bl" +
+            "ainePortfolio\\Programming Architecture Examples\\Using Facade Hierarchy\\FacadeWin" +
+            "formTest1.0\\AdventureWorksLT2012_Data.mdf\";Integrated Security=True;Connect Time" +
+            "out=30")]
         public string AdventureworksConnection {
             get {
                 return ((string)(this["AdventureworksConnection"]));

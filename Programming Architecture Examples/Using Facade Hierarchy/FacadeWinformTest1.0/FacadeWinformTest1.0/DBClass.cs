@@ -38,6 +38,9 @@ namespace FacadeWinformTest1._0
         /// Searches AdventureWorksLT for Select statement parameters and returns list
         /// </summary>
         /// <returns>All CustomersList in DB with SQL query parameters</returns>
+        
+        
+
         public List<Customers> CustomerList()
         {
             var results = new List<Customers>();
