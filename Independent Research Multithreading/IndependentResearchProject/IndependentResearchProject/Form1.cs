@@ -104,7 +104,7 @@ namespace IndependentResearchProject
                 t.Start();
                 t2.Start();
 
-                t.Join();
+                //t.Join();
                 t2.Join();
 
                 rtb1.Text = text1;
