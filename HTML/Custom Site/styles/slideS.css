@@ -1,0 +1,19 @@
+﻿.fadein /*controls formating for the slide show*/
+{
+	padding:1em 200px 1em;
+}
+
+.fadein 
+{
+	position: relative;
+	height:300px;
+	width:300px;
+}
+.fadein img 
+{
+	position:absolute;
+}
+section div
+{
+	margin-bottom:25px;
+}

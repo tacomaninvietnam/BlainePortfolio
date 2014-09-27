@@ -1,0 +1,78 @@
+﻿@media print /*All changes to this page 11/19/2012*/
+{
+body /*formatting for the printed page*/
+{
+	font-size:140%;
+	margin:.5em 1em .5em;
+	border:none;/*removes the box-shadow and borders from the body*/
+	box-shadow:none;
+	
+}
+img/*shuts off the img attribute*/
+{
+	display:none
+}
+section /*removes border and sets margin for the section*/
+{
+	border:none;
+	margin:.5em auto .5em;
+	
+}	
+section h1 /*formats the header*/
+{
+	font-family:sans-serif;
+	margin:10px auto 10px;
+	border-bottom:3px solid black;
+}
+section h1:first-child /*removes the orginal header, video, nav_bar/list, and h1 elements from top of page for printing*/
+{
+	display:none;
+}
+header
+{
+	display:none;
+	border:none;
+	
+}
+footer
+{
+	display:none;
+	border:none;
+	
+}
+a{
+	text-decoration:none;
+}/*changes links to black*/
+a:link
+{
+	color:black;
+}
+aside
+{
+	display:none;
+	border:none;
+	
+}
+
+
+#nav_list /*shuts down navlists/bars*/
+{
+	display:none;
+}
+#nav_bar
+{
+	display:none;
+}
+section p /*sets section font to sans-serif*/
+{
+	font-family:sans-serif;
+}
+#copyright
+{
+	position:fixed;
+}
+#carousel img/*12/3/2012 update*/
+{
+	display:none;
+}
+}

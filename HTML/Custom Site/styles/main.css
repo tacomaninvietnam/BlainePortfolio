@@ -1,0 +1,119 @@
+﻿/* So the HTML5 structural tags work in older browsers */
+article, aside, figure, footer, header, nav, section {
+    display: block;
+}
+/* the styles for the elements */
+* {
+	margin: 0;
+	padding: 0;
+}
+html
+{
+	background:black;
+}
+body
+{
+	width:898px;
+	height:706px;
+	background:white;
+	border:1px solid red; /*not working*/
+	margin:0 auto 0;
+}
+section
+{
+	height:452px;
+	width: 766px;
+	float:left;
+	border:2px solid red;
+}
+section h2
+{
+	padding:10px 5px 10px 5px;
+}
+section img
+{
+	float:left;
+	padding-bottom:0;
+	padding-left:15px;
+}
+section p
+{
+	width:620px;
+	padding-left:15px;
+}
+section a
+{
+	color:blue;
+}
+header
+{
+	background-image:url('../images/title.jpg'); 
+	width:898px;
+	height:150px;
+	border:1px;
+	border-color:red;
+}
+aside 
+{
+	float:right;
+	background-color:black;
+	width:128px;
+	height:452px;
+	border-bottom:2px solid red;
+	border-top:2px solid red;
+}
+aside a 
+{
+	color:red;
+}
+a:visited{color:maroon;}
+a:hover, a:focus {color:orange;}
+aside p
+{
+	padding-left:15px;
+	padding-bottom:20px;
+	color:red;
+	font-size:90%;
+}
+aside h3
+{
+	color:red;
+	font-weight:bold;
+	padding:10px 20px 20px;
+}
+aside img
+{
+	padding-left:30px;
+}
+aside li
+{
+	padding-bottom:15px;
+}
+footer
+{
+	width:900px;
+	border-top:2px solid red;
+}
+#copyright
+{
+	margin-left:590px;
+}
+header h1
+{
+	color:red;
+	padding-top:.5em;
+	padding-left:295px;
+	
+}
+section ul
+{
+	margin-left:35px;
+	margin-top:10px;
+}
+ul.list
+{
+	text-align:center;
+	list-style-type:none;
+	padding-bottom:10px;
+	margin-top:15px;
+}

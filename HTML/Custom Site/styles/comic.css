@@ -1,0 +1,45 @@
+﻿/*page created 11/5/2012*/
+table /*sets the border collapse for the table*/
+{
+	border-collapse: collapse;
+	border: 1px solid black;
+	margin: .5em auto 1em;
+			
+}
+thead, tbody, tfoot {
+	font-size:80%;
+}
+th, td /*sets the borders and padding for the table*/
+{
+	border: 1px solid red;
+	padding: .2em 1em .2em .5em;
+	text-align: left;
+	vertical-align: middle;
+	color:red;
+}
+caption/*formats the caption*/
+{
+	font-size:150%;
+	margin:10px auto;
+	font-weight:bold;
+}
+table tr:nth-child(even)/*switches every even row to gray*/
+{
+	background:gray;
+	color:white;
+}
+tfoot th /*center the footer*/
+{
+	text-align:center;
+}
+table tr:nth-child(odd)/*sets every odd row to black*/
+{
+	background:black;
+}
+
+a:link {color:red}
+a:visited{color:maroon;}
+a:hover, a:focus {color:orange;}
+a {
+	display:block;
+}

@@ -1,0 +1,59 @@
+﻿section
+{
+	background:black;
+}
+section div
+{
+	
+	height:250px;
+} 
+#accordion li
+{
+	margin:.25em;
+	padding:.25em;
+	background:black;
+	color:red;
+	
+}
+
+#accordion
+{
+	height:20px;
+	width:470px;
+	float:left;
+	
+}
+#accordion p
+{
+	margin: 10px;
+	background:black;
+	color:red;
+	clear:both;
+	width:350px;
+}
+#accordion h3
+{
+	background:red;
+	border:1px solid black;
+}
+#accordion a
+{
+	color:black;
+}
+#accordion a:first-child
+{
+	text-decoration:none;
+	display:block;
+	text-align:center;
+	color:red;
+	font-size:200%;
+	margin:1em auto;
+}
+#accordion div
+{
+	background:black;
+}
+section img
+{
+	float:right;
+}

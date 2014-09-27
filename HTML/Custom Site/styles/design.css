@@ -1,0 +1,128 @@
+﻿/* So the HTML5 structural tags work in older browsers */
+article, aside, figure, footer, header, nav, section {
+    display: block;
+}
+/* the styles for the elements */
+* {
+	margin: 0;
+	padding: 0;
+}
+html
+{
+	background:black;
+}
+body
+{
+	width:898px;
+	height:706px;
+	background:white;
+	border:1px solid red; /*not working*/
+	margin:0 auto 0;
+}
+section
+{
+	height:452px;
+	width: 766px;
+	float:right;
+	border:2px solid red;
+}
+section h2
+{
+	padding:10px 5px 10px 5px;
+}
+section img
+{
+	float:right;
+	padding-top:140px;
+	padding-right:15px;
+}
+section p
+{
+	width:620px;
+	padding-left:15px;
+}
+section a
+{
+	color:blue;
+}
+header
+{
+	background-image:url('../images/title2.jpg'); 
+	width:898px;
+	height:150px;
+	border:1px;
+	border-color:red;
+}
+aside 
+{
+	float:left;
+	background-color:aqua;
+	width:128px;
+	height:452px;
+	border-bottom:2px solid red;
+	border-top:2px solid red;
+}
+aside a
+{
+	color:red
+}
+ul.list
+{
+	text-align:center;
+	list-style-type:none;
+}
+a{color:red}
+a:visited{color:maroon;}
+a:hover, a:focus {color:orange;}
+aside p
+{
+	padding-left:15px;
+	padding-bottom:20px;
+	color:red;
+	font-size:90%;
+}
+aside h3
+{
+	color:red;
+	font-weight:bold;
+	padding:10px 20px 20px;
+}
+footer
+{
+	width:900px;
+	border-top:2px solid red;
+}
+#copyright
+{
+	margin-left:590px;
+}
+header h1
+{
+	color:red;
+	padding-top:80px;
+	text-align:center;
+	
+}
+header h2
+{
+	color:red;
+	text-align:center;
+
+}
+section ul
+{
+	margin-left:120px;
+	margin-top:5px;
+}
+ul li
+{
+	padding-top:15px;
+	
+}
+li.blaine{list-style-image:url('../images/blaine1.png')}
+li.andria{list-style-image:url('../images/andria1.png')}
+li.dan{list-style-image:url('../images/dan1.png')}
+li img
+{
+	padding-top:30px;
+}	
